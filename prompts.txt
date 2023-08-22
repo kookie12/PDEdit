@@ -1,0 +1,43 @@
+[Result 1]
+input_video
+- boat.gif
+
+output_video/target prompt:
+- boat_edit_1.gif /"sailing boat is passing over the snowy sea"
+- boat_edit_2.gif/"LEGO boat is passing over the river"
+
+[Result 2]
+input_video
+- girl_holding.gif
+
+output_video/target prompt:
+- girl_holding_edit_1.gif /"a girl is holding a dog in her arms"
+- girl_holding_edit_2.gif/"a girl is holding a bear in her arms"
+
+[Result 3]
+input_video
+- snowboard.gif
+
+output_video/target prompt:
+- snowboard_edit_1.gif /"a gingerbread man is riding on a snowboard at a ski resort"
+
+[Result 4]
+input_video
+- man_sitting.gif
+
+output_video/target prompt:
+- snowboard_edit_1.gif /"a man is sitting down while waving his hands"
+
+[Result 5]
+input_video
+- astronaut.gif
+
+output_video/target prompt:
+- astronaut_edit_1.gif /"an astronaut is jumping on the moon"
+
+[Result 6]
+input_video
+- man_snowboard.gif
+
+output_video/target prompt:
+- man_snowboard_edit_1.gif /"a man shows the thumbs up while riding a snowboard"

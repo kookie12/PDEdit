@@ -1,0 +1,16 @@
+[Result 1]
+input video: astronaut.gif
+target prompt: 
+- "astronaut is jumping on the moon"
+pivotal prompt: 
+- (with distributional disentangling) "astronaut is [mask] on the moon"
+- (with editing factor disentangling) "astronaut [mask] [mask] on [mask] moon"
+
+[Result 2]
+input video: person.gif
+target prompt:
+- "person jumps wihle walking road"
+pivotal prompt: 
+- (with distributional disentangling) "person [mask] wihle walking road"
+- (with editing factor disentangling) "person [mask] [mask] walking [mask]"
+
