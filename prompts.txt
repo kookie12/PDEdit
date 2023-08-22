@@ -26,7 +26,7 @@ input_video
 - man_sitting.gif
 
 output_video/target prompt:
-- snowboard_edit_1.gif /"a man is sitting down while waving his hands"
+- man_sitting_edit_1.gif /"a man is sitting down while waving his hands"
 
 [Result 5]
 input_video
