@@ -37,7 +37,7 @@ output_video/target prompt:
 
 [Result 6]
 input_video
-- man_snowboard.gif
+- yellow_man_snowboard.gif
 
 output_video/target prompt:
-- man_snowboard_edit_1.gif /"a man shows the thumbs up while riding a snowboard"
+- yellow_man_snowboard_edit_1.gif /"a man shows the thumbs up while riding a snowboard"
